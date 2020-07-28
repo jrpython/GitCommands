@@ -53,7 +53,25 @@
     
 This complete your initial setup !!
 
-### **2. Frequently used commands**
+### **2. Setup .gitignore**
+
+Create a .gitignore file in your root directory on your local and the add files folder which needs to be ignored while checkin
+
+```# ignore everything in the directory
+code/logs/*
+
+# except specfic directory      
+!code/logs/python/
+
+# ignore all *.class files
+/code/java/*.class
+
+# ignore .git and .ipynb_checkpoints folder
+.git
+.ipynb_checkpoints
+```
+
+### **3. Frequently used commands**
 
 1. Get the latest changes from remote <br/>
  * ``` git pull origin master ```
