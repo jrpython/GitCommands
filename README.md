@@ -28,7 +28,7 @@
   
    Initial configuration
    * ```git config --global user.email "your_email@example.com" ```
-   * ```git config --global user.name "myusrename"  ```
+   * ```git config --global user.name "myusername"  ```
    
    You are ready to make code changes
    * ```echo "123" > test.txt ```
