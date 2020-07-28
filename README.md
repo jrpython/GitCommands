@@ -21,7 +21,7 @@
   Step 6: Follow the below commands
 
    Clone the reposiroty:
-    ```git clone https://github.com/<YourUser>/<YourRepositoryName>.git```
+     ```git clone https://github.com/<YourUser>/<YourRepositoryName>.git```
 
    Navigate to the folder:
     cd <YourRepositoryName>
