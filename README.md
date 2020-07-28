@@ -2,7 +2,7 @@
 
 ## This repository contains frequently used commands for git
 
-### **1. First time setup for Git**
+### **1. First time Git setup**
 
  File GitInitialSetup.txt contacts all the commands for initial configuration.
 
