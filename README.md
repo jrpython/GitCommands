@@ -45,7 +45,7 @@
    Add your changes to git ("." indicates all files and foldes in current diectory should be added, if you want to add specific file then provide only that file name)
    * ```git add . ```
    
-   Commit your changes with comments
+   Commit your to git changes with comments
    * ```git commit -m "initial commit" ```
    
    Push your changes to remote github repository
@@ -79,6 +79,16 @@ code/logs/*
   (use "git add <file>..." to include in what will be committed)
         .gitignore
  ```
+2. Add your changes to git
+* ``` git add . ```
+
+3. Commit your changes to git with comment
+* ``` git commit -m "commiting .gitignore file" ```
+
+4. Push your changes to remote github repository
+* ``` git push origin master ```
+
+
 
 ### **4. Frequently used commands**
 
