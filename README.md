@@ -37,12 +37,12 @@
    *  ```git status ```
    
    You would be able see the following output:
-    Untracked files:
-      (use "git add <file>..." to include in what will be committed)
-        test.txt
+    ``` Untracked files: ```
+    ```  (use "git add <file>..." to include in what will be committed) ```
+    ```    test.txt ```
    
    Add your changes to git (. indiactes all files and foldes in current diectory, if you want to upload specific file then add only that file name here)
-    * ```git add . ```
+   * ```git add . ```
    
    Commit your changes
    * ```git commit -m "initial commit" ```
