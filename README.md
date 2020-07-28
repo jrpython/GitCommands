@@ -14,9 +14,9 @@
 
   Step 3: Create a repository with the specific name (without space) and select if you want to make it Public or Private
 
-  Step 4: Once reposiroty is created, go to this repository and click on "Code" and copy the git URL
+  Step 4: Once reposiroty is created, go to this newly repository and click on "Code" and copy the git URL
 
-  Step 5: Open a command prompt or terminal and navigate to the folder where you want to clone this newly created repository
+  Step 5: Now on your local machine, open a command prompt or terminal and navigate to the folder where you want to clone this newly created repository
 
   Step 6: Follow the below commands
 
