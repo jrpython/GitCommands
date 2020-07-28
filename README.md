@@ -42,13 +42,13 @@
      ```    test.txt ```<br/>
    
    
-   Add your changes to git (. indiactes all files and foldes in current diectory, if you want to upload specific file then add only that file name here)
+   Add your changes to git ("." indicates all files and foldes in current diectory should be added, if you want to add specific file then provide only that file name)
    * ```git add . ```
    
-   Commit your changes
+   Commit your changes with comments
    * ```git commit -m "initial commit" ```
    
-   Push your changes to remote git repository
+   Push your changes to remote github repository
    * ```git push origin master ```
     
 This complete your initial setup !!
