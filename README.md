@@ -52,3 +52,8 @@
    * ```git push origin master ```
     
 This complete your initial setup !!
+
+### **2. Frequently used commands*
+
+1. Get the latest changes from remote
+ ``` git pull origin master ```
