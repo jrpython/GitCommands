@@ -1,0 +1,3 @@
+# ignore .git and .ipynb_checkpoints folder
+.git
+.ipynb_checkpoints
