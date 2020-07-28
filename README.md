@@ -1,7 +1,8 @@
 # Git Commands
-This repository contains frequently used commands for git
 
-1. First time setup for Git
+## This repository contains frequently used commands for git
+
+### **1. First time setup for Git**
 
  File GitInitialSetup.txt contacts all the commands for initial configuration.
 
@@ -20,7 +21,7 @@ This repository contains frequently used commands for git
   Step 6: Follow the below commands
 
    Clone the reposiroty:
-    git clone https://github.com/<YourUser>/<YourRepositoryName>.git
+    ```git clone https://github.com/<YourUser>/<YourRepositoryName>.git```
 
    Navigate to the folder:
     cd <YourRepositoryName>
