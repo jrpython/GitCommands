@@ -1,0 +1,18 @@
+git clone https://github.com/<YourUser>/<YourRepositoryName>.git
+cd <YourRepositoryName>
+git config --global user.email "jatin.contact@yahoo.com"
+git config --global user.name "jrpython"
+echo "123" > test.txt
+git status
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+git add .
+git commit -m "initial commit"
+git push origin master
+
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
