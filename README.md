@@ -45,10 +45,52 @@
    Add your changes to git ("." indicates all files and foldes in current diectory should be added, if you want to add specific file then provide only that file name)
    * ```git add . ```
    
-   Commit your changes with comments
+   Commit your to git changes with comments
    * ```git commit -m "initial commit" ```
    
    Push your changes to remote github repository
    * ```git push origin master ```
     
 This complete your initial setup !!
+
+### **2. Setup .gitignore**
+
+Create a .gitignore file in your root directory on your local and the add files folder which needs to be ignored while checkin
+
+```# ignore everything in the directory
+code/logs/*
+
+# except specfic directory      
+!code/logs/python/
+
+# ignore all *.class files
+/code/java/*.class
+
+# ignore .git and .ipynb_checkpoints folder
+.git
+.ipynb_checkpoints
+```
+### **3. Commit your changes to remote**
+
+1. Check the status of all the files which are changed on local
+ * ``` git status ```
+ ```
+ Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+ ```
+2. Add your changes to git
+* ``` git add . ```
+
+3. Commit your changes to git with comment
+* ``` git commit -m "commiting .gitignore file" ```
+
+4. Push your changes to remote github repository
+* ``` git push origin master ```
+
+
+
+### **4. Frequently used commands**
+
+1. Get the latest changes from remote <br/>
+ * ``` git pull origin master ```
