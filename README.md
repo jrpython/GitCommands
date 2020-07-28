@@ -70,8 +70,16 @@ code/logs/*
 .git
 .ipynb_checkpoints
 ```
+### **3. Commit your changes to remote**
 
-### **3. Frequently used commands**
+1. Check the status of all the files which are changed on local
+ * ``` git status ```
+ ```Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+```
+
+### **4. Frequently used commands**
 
 1. Get the latest changes from remote <br/>
  * ``` git pull origin master ```
