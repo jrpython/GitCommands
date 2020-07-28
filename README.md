@@ -40,6 +40,7 @@ This repository contains frequently used commands for git
         test.txt
    
    Add your changes to git (. indiactes all files and foldes in current diectory, if you want to upload specific file then add only that file name here)
+    
     git add .
    
    Commit your changes
