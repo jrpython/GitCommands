@@ -45,7 +45,7 @@ This repository contains frequently used commands for git
    Commit your changes
     git commit -m "initial commit"
    
-   Push your changes to remote git repository:
+   Push your changes to remote git repository
     git push origin master
     
 This complete your initial setup !!
