@@ -20,7 +20,7 @@
 
   Step 6: Follow the below commands
 
-   Clone the reposiroty:
+   Clone the reposiroty with repository URL (This URL was copied in earlier step):
    * ```git clone https://github.com/<YourUser>/<YourRepositoryName>.git ```
 
    Navigate to the folder:
