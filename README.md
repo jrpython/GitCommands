@@ -74,10 +74,11 @@ code/logs/*
 
 1. Check the status of all the files which are changed on local
  * ``` git status ```
- ```Untracked files:
+ ```
+ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         .gitignore
-```
+ ```
 
 ### **4. Frequently used commands**
 
