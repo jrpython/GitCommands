@@ -4,7 +4,7 @@
 
 ### **1. First time Git setup**
 
- File GitInitialSetup.txt contacts all the commands for initial configuration.
+ File **GitInitialSetup.txt** contacts all the commands for initial configuration.
 
  Details steps are as below:
 
