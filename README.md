@@ -21,14 +21,14 @@
   Step 6: Follow the below commands
 
    Clone the reposiroty:
-   * ```git clone https://github.com/<YourUser>/<YourRepositoryName>.git```
+   * ```git clone https://github.com/<YourUser>/<YourRepositoryName>.git ```
 
    Navigate to the folder:
-    cd <YourRepositoryName>
+   * ``` cd <YourRepositoryName> ```
   
    Initial configuration
-    git config --global user.email "your_email@example.com"
-    git config --global user.name "myusrename"
+   * ```git config --global user.email "your_email@example.com"
+    git config --global user.name "myusrename"  ```
    
    You are ready to make code changes
     echo "123" > test.txt
