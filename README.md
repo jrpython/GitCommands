@@ -33,7 +33,10 @@
    You can veify your remote branch. This will show which branch is confugured for fetch and push:
    * ```git remote -v ```
    
-   You are ready to make code changes, let us try to create a test file and try to check-in into the git repository:
+   You are now ready to make code changes!!!
+   
+   Let us create a test file and try to check-in & push to git remote repository:
+   
    * ```echo "123" > test.txt ```
    
    Check the status of your changes
