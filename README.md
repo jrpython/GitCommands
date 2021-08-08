@@ -1,6 +1,6 @@
 # Git Commands
 
-## This repository contains setup steps for git repository, how to connect to a repository from local and frequently used commands for git
+## This repository contains first time setup steps for git repository, how to connect to a repository from local, how to make regular commits and frequently used commands for git
 
 ### **1. First time Git setup**
 
